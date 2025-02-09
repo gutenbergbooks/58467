@@ -1,35 +1,4 @@
-The Project Gutenberg EBook of Les évangiles des quenouilles, by Anonymous
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll
-have to check the laws of the country where you are located before using
-this ebook.
-
-
-
-Title: Les évangiles des quenouilles
-
-Author: Anonymous
-
-Editor: Colard Mansion
-
-Release Date: December 13, 2018 [EBook #58467]
-
-Language: French
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LES ÉVANGILES DES QUENOUILLES ***
-
-
-
-
-Produced by Laurent Vogel (This file was produced from
-images generously made available by the Bibliothèque
-nationale de France (BnF/Gallica) at http://gallica.bnf.fr)
+*** START OF THE PROJECT GUTENBERG EBOOK 58467 ***
 
 
 
@@ -40,18 +9,21 @@ nationale de France (BnF/Gallica) at http://gallica.bnf.fr)
 
 
 
-Cy commence le traittié intitulé les euvangiles des quenoilles faittes a
+
+
+
+Cy commence le traittiÃ© intitulÃ© les euvangiles des quenoilles faittes a
 l'onneur et exaucement des dames.
 
 
 Maintes gens sont au jour d'huy qui alleguent et auctorisent leurs
 parolles et raisons par les euvangilles des quenouilles qui gaires ne
-scevent de quele importance et auctorité elles sont ne qui en furent les
+scevent de quele importance et auctoritÃ© elles sont ne qui en furent les
 sages doctoresses et premieres inventerresses. Et aincoires qui pis est
 les alleguent plus par derrision et en mocquerie qu'ilz ne font par
 affection qu'ilz ayent a la grande substance qu'elles contiennent. Et ce
 font ilz tousjours en l'amoindrissement et reboutement des dames dont
-c'est pechié et grant honte pour ceulx qui ainsy le font.
+c'est pechiÃ© et grant honte pour ceulx qui ainsy le font.
 
 Car ilz ygnorent la grande noblesse des dames/ et les grans biens qui
 d'elles procedent. Car pour ce que la premiere femme fut faitte et cree
@@ -61,15 +33,15 @@ d'esperit legier et inventif et si tressoubtil: que a bien pou d'ayde
 elles scevent pluiseurs choses avenir. Car les passeez et presentes
 scevent de leur propre nature selon les conjectures et dispositions des
 temps des personnes des auguremens des oyseaulx et des bestes et brief
-de toutes autres creatures comme il apperra ou procés de ce livre.
+de toutes autres creatures comme il apperra ou procÃ©s de ce livre.
 
 Or est ainsi doncques que pour obvier a teles injures et teles
 mocqueries mettre a neant/ et par contraire exauchier les dames et leurs
-euvangiles verifier: je qui de pieça et mesmes des mon enfance ay esté
+euvangiles verifier: je qui de pieÃ§a et mesmes des mon enfance ay estÃ©
 leur humble clerc et serviteur/ et dont des biens que d'elles ay receus
 assez ne me sauroie loer/ je a la requeste d'aucunes mes treschieres/ ay
-comme cy aprés porrez veoir mis par escript et en ordre ce petit
-traittié qui contient en soy le texte des euvangiles des quenouilles
+comme cy aprÃ©s porrez veoir mis par escript et en ordre ce petit
+traittiÃ© qui contient en soy le texte des euvangiles des quenouilles
 ensemble pluiseurs gloses et postiles y adjousteez et esclarciez par
 aucunes sages dames desqueles les noms seront cy ensiuvant mis et
 escrips.
@@ -85,7 +57,7 @@ vrais catholicques que pour mettre et redigier par escript a la memoire
 perpetuele des crestiens les saintes et vraies parolles/ ensambles les
 vertueuses euvres et fais de nostre benoit sauveur et redempteur jhesus
 crist/ et de ses sains apostres/ furent esleus quatre preudhommes
-d'entr'eulx plains de verité et vertus pour faire cestui sainct mistere
+d'entr'eulx plains de veritÃ© et vertus pour faire cestui sainct mistere
 qui se nomment euvangiles par les escriptures lesqueles la vraye et
 sainte foy catholique est tenue/ enluminee et corroboree/ et sera
 jusques en la fin des siecles.
@@ -93,14 +65,14 @@ jusques en la fin des siecles.
 A semblable doncques pour verifier et mettre en en avant les parolles et
 auctoritez des femmes de jadis/ affin aussi de les nom perdre ne
 telement evanouyr que la memoire ne puisse estre fresche et recente
-entre celles du temps present et de cellui ont esté trouveez six
+entre celles du temps present et de cellui ont estÃ© trouveez six
 matrones sages et prudentes pour reciter et lire lesdittes euvangiles
-des quenouilles en la maniere que cy aprés sera declairié.
+des quenouilles en la maniere que cy aprÃ©s sera declairiÃ©.
 
-Et pour ce que en tout tesmoingnage de verité il convient trois femmes
+Et pour ce que en tout tesmoingnage de veritÃ© il convient trois femmes
 pour deux hommes: pour faire et acomplir doncques le nombre desdiz
-quatre euvangelistes il a convenu que six femmes aient esté empeschiez
-de faire cestui euvre pour plusgrande approbacion de verité. desqueles
+quatre euvangelistes il a convenu que six femmes aient estÃ© empeschiez
+de faire cestui euvre pour plusgrande approbacion de veritÃ©. desqueles
 les noms se ensuivent.
 
 La premiere fut nommee dame ysengrine du glay.
@@ -115,7 +87,7 @@ La quinte eut nom dame gomberde la faee.
 
 Et la sixiesme eut nom dame berthe de corne.
 
-Ces six dames furent si tressaiges en leur temps que se ce eust esté
+Ces six dames furent si tressaiges en leur temps que se ce eust estÃ©
 pour conjurer un bleu dyable ou pour le loyer dessus un coussin: si
 estoient elles assez expertes et habilles.
 
@@ -133,23 +105,23 @@ l'art de nygromancie/ de laquele art il monstra et enseigna partie a la
 royne sa femme nommee hermofrodita. et laquele depuis fist de beaux
 principes pour le commencement de ces euvangiles. mais elles ne furent
 de son temps acheveez. ains d'eage en eage/ et de siecle en siecle elles
-ont esté multiplieez/ et par legiers espris infusez es corages des
+ont estÃ© multiplieez/ et par legiers espris infusez es corages des
 prudentes femmes chascunes en son temps selon les auguremens et signes
 qu'elles povoient concevoir et veoir tant en la terre comme en l'air.
 
-Et depuis ce temps n'a esté aincoires aucun/ voire que j'aye sceu ne qui
+Et depuis ce temps n'a estÃ© aincoires aucun/ voire que j'aye sceu ne qui
 soit venu a ma congnoissance qui ait volu prendre la paine de les mettre
 par escript ou en registre/ au moins le tout/ ne par ordre/ mais ce tant
-pou que fait en a esté/ ce a esté confusiblement et par pieces puis cy
-puis la sans tenir aucun ordre. et aincoires ce que fait en a esté/ ç'a
-esté plus par derrision et mocquerie que autrement et toutesfois elles
+pou que fait en a estÃ©/ ce a estÃ© confusiblement et par pieces puis cy
+puis la sans tenir aucun ordre. et aincoires ce que fait en a estÃ©/ Ã§'a
+estÃ© plus par derrision et mocquerie que autrement et toutesfois elles
 ne deffaillent pas de grant mistere. Et pour vous donner a cognoistre
 comment je suis venu en ceste temeraire et presumptueuse hardiesse et
 outrecuidance que de vouloir escripre et mettre par ordre cest euvre: il
-est verité que un soir aprés souper/ pour cause d'esbat et de
+est veritÃ© que un soir aprÃ©s souper/ pour cause d'esbat et de
 passetemps/ es longues nuis entre le noel et la chandeleur derrain
-passé/ je me transportay en l'ostel d'une assez ancienne damoisselle
-assez prez ma voisine ou j'avoye acoustumé d'aler souvent deviser/ car
+passÃ©/ je me transportay en l'ostel d'une assez ancienne damoisselle
+assez prez ma voisine ou j'avoye acoustumÃ© d'aler souvent deviser/ car
 pluiseurs des voisines d'environ venoient illec filer et deviser de
 pluiseurs menus et joieux propos dont je prenoie grant soulas et
 plaisir. mais pour ceste fois estoient illec les six dames assambleez
@@ -158,9 +130,9 @@ grant haste qu'elles avoient de dire leurs propos: elles anticipoient
 l'une l'autre et parloient toutes ensemble.
 
 Moy aucunement honteux de ceste ma soudaine avenue entr'elles/ me voulz
-retraire arriere et pris congié d'elles en moy deportant d'illec. Mais
+retraire arriere et pris congiÃ© d'elles en moy deportant d'illec. Mais
 soudainement je fus d'elles rappellez et de fait arrestez par la robe
-par l'une d'elles dont moitié force moitié requeste je retournay et
+par l'une d'elles dont moitiÃ© force moitiÃ© requeste je retournay et
 m'assiz entr'elles et leur priay moult humblement qu'elles me
 pardonnaissent de ce que si francement et si baudement me estoie embatus
 entre elles.
@@ -168,7 +140,7 @@ entre elles.
 L'une prist la parolle pour toutes les autres. et me dist que vrayement
 je leur estoie le tresbien venus et le mieulx que homme qu'elles
 sceussent en ce monde. et qu'il leur sembloit que dieu m'avoit illec
-amené pour estre en leur ayde attendu le fait en quoy elles estoient
+amenÃ© pour estre en leur ayde attendu le fait en quoy elles estoient
 pour ceste heure occuppeez et empeschiez/ et que mieulx leur drescheroie
 leur euvre et concept veu que autreffois en autres matieres avoie
 escript des dames fort a leur honneur. et aincoires de present me
@@ -192,7 +164,7 @@ comprendre ne servir si tost qu'elles eussent bien volu.
 
 Ceste charge doncques par moy ainsi prise les dames me remercierent
 grandement/ et prindrent jour entr'elles et heure de retourner le
-lendemain aprés souper. Et me chargierent que avec moy aporttaisse
+lendemain aprÃ©s souper. Et me chargierent que avec moy aporttaisse
 largement papier et enchre et plumes car elles vouloient determiner de
 haultes besoingnes.
 
@@ -203,11 +175,11 @@ L'ordonnance de cestui livre mise en termes par dame ysengrine.
 
 
 L'endemain a heure assignee je furny de mes agoubilles me trouvay ou
-lieu assigné ouquel estoient desja assambleez les six dames qui aprés
+lieu assignÃ© ouquel estoient desja assambleez les six dames qui aprÃ©s
 moy attendoient. Et elles de ma venue joyeuses comme par samblance elles
-demonstroient/ aprés qu'elles me eurent preparé mon lieu pour a mon aise
+demonstroient/ aprÃ©s qu'elles me eurent preparÃ© mon lieu pour a mon aise
 oyr et escripre leurs oppinions et doctrines: l'une d'elles et la plus
-ancienne nommee/ dame ysengrine du glay: commença a parler aprés licence
+ancienne nommee/ dame ysengrine du glay: commenÃ§a a parler aprÃ©s licence
 obtenue des autres ses compaignes les parolles qui s'ensuivent.
 
 Mes treschieres voisines et compaignes en ceste vocacion vous voyez/ et
@@ -219,12 +191,12 @@ puis que dire le me convient sommes venues et descendues de plus hault
 et plusnoble lieu qu'ilz ne sont/ et faittes de matiere plus nette et
 plus clarifiee que eux: il m'est avis a correction de vous toutes que
 bon seroit que a l'ayde de cestui nostre secretaire et amy nous feissons
-un petit traittié des chappitres que volons tenir/ et mettre par ordre/
-lesquelz depieça de noz grandes et anciennes meres ont esté trouveez
+un petit traittiÃ© des chappitres que volons tenir/ et mettre par ordre/
+lesquelz depieÃ§a de noz grandes et anciennes meres ont estÃ© trouveez
 affin de les non mettre en oubliance et qu'il puisse venir entre les
-mains de celles qui aincoires sont a a venir. Lequel traittié contendra
+mains de celles qui aincoires sont a a venir. Lequel traittiÃ© contendra
 les chappitres des euvangiles des quenoilles/ ensemble les gloses que
-aucunes sages et prudentes matrones y ont adjousté et aincoires feront
+aucunes sages et prudentes matrones y ont adjoustÃ© et aincoires feront
 en multipliant le texte.
 
 Et pour entrer en la matiere et mettre ordre en nostre commencement vous
@@ -233,7 +205,7 @@ qui avons empris ceste besoingne/ et qui avons veu et oy recorder par
 noz anciennes pluiseurs choses des viel et nouvel testament/ et
 pluiseurs vraies et bonnes auctoritez. Si m'est avis en conclusion qu'il
 seroit bon que a lundy prochain venant nous assamblissons en l'ostel de
-maroie ployarde ou l'en a acoustumé de tenir la serie/ environ sept
+maroie ployarde ou l'en a acoustumÃ© de tenir la serie/ environ sept
 heures du vespre/ et illec se c'est vostre avis l'une de nous commencera
 sa lecture/ et ses chappitres recitera en la presence de toutes celles
 qui illec seront assambleez pour les tenir et mettre en perpetuele
@@ -259,33 +231,33 @@ L'ordonance de la premiere journee. et de la descripcion de dame
 ysengrine du glay et qui elle fut.
 
 
-Le lundy au soir environ entre sept et huit heures aprés souper
+Le lundy au soir environ entre sept et huit heures aprÃ©s souper
 s'assemblerent lesdites dix dames/ ensembles toutes les voisines qui
-accoustumé avoient d'y venir et pluiseurs autres qui y furent inviteez
-qui aincoires n'y avoient esté pour oyr le mistere que illec faire se
+accoustumÃ© avoient d'y venir et pluiseurs autres qui y furent inviteez
+qui aincoires n'y avoient estÃ© pour oyr le mistere que illec faire se
 devoit/ dame ysengrine du glay y vint acompaignie de pluiseurs de sa
 congnoissance qui toutes apporterent leurs quenoilles/ lin/ fuiseaux/
 estandars/ happles/ et toutes agoubilles servans a leur art. Et brief ce
-sembloit a veoir un droit marchié ou l'en ne vendoit que parolles et
+sembloit a veoir un droit marchiÃ© ou l'en ne vendoit que parolles et
 raisons a divers propos de pou d'effect/ et de petite valeur.
 
-Le siege de dame ysengrine estoit preparé a un costé un pou plushault
-des autres/ et le mien decosté elle devant moy un rondeau ou estoit
+Le siege de dame ysengrine estoit preparÃ© a un costÃ© un pou plushault
+des autres/ et le mien decostÃ© elle devant moy un rondeau ou estoit
 assise une lampe d'oile pour enluminer sur mon euvre/ et toutes les
-assistentes avoient tourné leurs visages ou regart de dame ysengrine
-Laquele aprés licence obtenue commença a parler en ceste maniere. Mais
+assistentes avoient tournÃ© leurs visages ou regart de dame ysengrine
+Laquele aprÃ©s licence obtenue commenÃ§a a parler en ceste maniere. Mais
 avant que je commence escripre ses chappitres je vous veuil reciter
 l'estat/ et la genealogie d'elle.
 
 Dame ysengrine estoit eagie de .lxv. ans ou environ/ belle femme avoit
-esté en son temps mais elle estoit devenue fort ridee. les yeulx avoit
+estÃ© en son temps mais elle estoit devenue fort ridee. les yeulx avoit
 enfonssez et la bouce grande et large/ cinq maris avoit eu/ sans les
-acointes de costé. Elle se mesloit en sa viellesse de recevoir les
+acointes de costÃ©. Elle se mesloit en sa viellesse de recevoir les
 enfans nouvellement nez. mais en sa jonesse elle recevoit les grans
 enfans. moult experte fut en pluiseurs ars. Son mari estoit asses jone
 duquel elle estoit fort jalouse/ et dont elle faisoit souvent grandes
 complaintes a ses voisines. Touteffois licence comme dit est obtenue/
-elle commença son euvangille et prist son thume sur son mari en hongnant
+elle commenÃ§a son euvangille et prist son thume sur son mari en hongnant
 et dist.
 
 
@@ -293,20 +265,20 @@ Cy commencent les chappitres de l'euvangile dame ysengrine du glay pour
 le lundy.
 
 Mes bonnes compaignes et voisines/ il n'est aucune de vous qui ne sace
-que je prins mon mari josselin plus pour par sa beaulté que pour sa
+que je prins mon mari josselin plus pour par sa beaultÃ© que pour sa
 richesse/ car povre compaignon estoit. Et vela je ne le vey ne hier ne
 au jour d'huy/ dont j'ay grant doleur au cuer. Et certes il a grant
-marchié des biens que mes maris ses predecesseurs ont parcidevant a
+marchiÃ© des biens que mes maris ses predecesseurs ont parcidevant a
 grande paine et doleur assemblez. je croi que ce sera ma mort.
 
 Et a ce propos et pour le premier chappitre/ je dy pour aussy vray comme
 euvangile que l'omme qui despent indeuement les biens qui lui viennent
-de par sa femme et sans son gré et congié: il en rendera conte devant
+de par sa femme et sans son grÃ© et congiÃ©: il en rendera conte devant
 dieu comme de chose emblee.
 
 Glose. Sur ce chappitre dist une ancienne matrone nommee griele femme de
 jehan joquesus. Certes cellui mari qui fait contre ce chappitre/ est mis
-aprés sa mort ou purgatoire des mauvais maris en un baing plain de
+aprÃ©s sa mort ou purgatoire des mauvais maris en un baing plain de
 soulphre ardant. s'il n'a faitte sa penitance en ce monde par les
 hospitaux.
 
@@ -317,8 +289,8 @@ Il n'est riens plus certain que le mari qui va au contraire de ce que sa
 femme lui conseille et veut faire/ et qui la contredist de chose qu'elle
 dye: il est faulx et desloyal parjur.
 
-Glose. Certes dist gombaude du fossé j'en ay veu pluiseurs miracles de
-ceulx qui ont transgessé ce chappitre. et mesmes mon parastre se rompy
+Glose. Certes dist gombaude du fossÃ© j'en ay veu pluiseurs miracles de
+ceulx qui ont transgessÃ© ce chappitre. et mesmes mon parastre se rompy
 la jambe pour ce qu'il n'avoit volu croire le conseil de ma mere.
 
 
@@ -329,8 +301,8 @@ pour priere qu'il face faire grace de la vierge marie/ se premierement
 il n'a obtenu pardon de sa femme.
 
 Glose. Maroie ployarde dist sur ce chappitre que cellui qui bat sa femme
-fait autel pechié comme s'il se voloit soy mesmes desesperer. Car selon
-ce j'ay oy dire a no curé/ ce n'est que un corps d'homme et de femme
+fait autel pechiÃ© comme s'il se voloit soy mesmes desesperer. Car selon
+ce j'ay oy dire a no curÃ©/ ce n'est que un corps d'homme et de femme
 acouplez par mariage.
 
 
@@ -340,14 +312,14 @@ Homme qui fait aucune chose sans qu'il le donne a congnoistre a sa femme
 je vous dy comme euvangile qu'il est en conscience pire que larron qui
 bien l'oseroit dire.
 
-Glose. Les anciennes matrones ont maintenu pour verité que les enfans
+Glose. Les anciennes matrones ont maintenu pour veritÃ© que les enfans
 qui viennent de tel mariage jamais en ce monde ne devendront riches/ et
 si seront volentiers menteurs.
 
 
 Le cinquiesme chappitre.
 
-Mes amies je vous di pour verité qu'il n'est doleur ne angoisse pareille
+Mes amies je vous di pour veritÃ© qu'il n'est doleur ne angoisse pareille
 a celle que femme porte quant son mari va autre part porter et donner sa
 substance. et especialement quant les biens viennent de par elle.
 
@@ -365,8 +337,8 @@ que tel nom aura son mari.
 
 Glose. A ce mot se leva l'une des assistentes nommee geffrine femme de
 jehan le bleu et dist que ceste chose avoit esprouvee et que ainsi lui
-en estoit avenu/ dont elle maudissoit l'eure d'avoir encontré un tel
-homme qui toute couleur et beauté avoit perdue/ et si estoit si
+en estoit avenu/ dont elle maudissoit l'eure d'avoir encontrÃ© un tel
+homme qui toute couleur et beautÃ© avoit perdue/ et si estoit si
 tresmauvais mesnagier que autre chose ne povoit faire que dormir.
 
 
@@ -374,7 +346,7 @@ Le .vii.e chappitre.
 
 Quant femme porte enfant et on veult savoir s'elle porte filz ou fille
 on doit mettre en dormant sur sa teste du sel si soement que point ne le
-sache/ et aprés en devisant a elle sachiez quel nom elle nommera s'elle
+sache/ et aprÃ©s en devisant a elle sachiez quel nom elle nommera s'elle
 nomme homme ce sera un fils/ et s'elle nomme femme ce sera une fille.
 
 Glose. Ceste mesmes chose m'avint quant je portoie ma fille lise
@@ -389,7 +361,7 @@ affin qu'elles marieez et par especial enchaintes n'y pensent/ car pour
 certain leurs enfans en pourroient avoir leurs levres fenduez.
 
 Glose. Dist tantost Margot des bledz. tout ainsi en avint il nagaires a
-l'une de mes cousines. car pource qu'elle avoit mengié de la teste d'un
+l'une de mes cousines. car pource qu'elle avoit mengiÃ© de la teste d'un
 lievre sa fille dont elle estoit enchainte en apporta sur terre quatre
 levres.
 
@@ -450,12 +422,12 @@ fol et pour innocent.
 Le .xiii.e chappitre.
 
 Mes voisines et compaignes je vous dy pour euvangile que quant l'enfant
-est nouvellement né et avant qu'il suche la mamelle/ se on lui donne a
-mengier d'une pomme cuitte/ jamais aprés toute sa vie il n'en sera si
+est nouvellement nÃ© et avant qu'il suche la mamelle/ se on lui donne a
+mengier d'une pomme cuitte/ jamais aprÃ©s toute sa vie il n'en sera si
 luffres ne gourmant a table en boire/ et en mengier. Et si en sera plus
 courtois en fais et en parolle entre les dames.
 
-Glose. Maroie morele dist sur ce texte que quant un enfant est né qui
+Glose. Maroie morele dist sur ce texte que quant un enfant est nÃ© qui
 lui porteroit le petit boyau jusques au chief: il en auroit longue vie/
 douce alaine/ bonne voix/ et gracieuse loquense.
 
@@ -463,7 +435,7 @@ douce alaine/ bonne voix/ et gracieuse loquense.
 Le .xiiii.e chappitre.
 
 Je vous asseure pour aussy vray qu'euvangile que pour faire avoir aux
-enfans cheveux crespés. tantost aprés qu'ilz sont desobez/ il convient
+enfans cheveux crespÃ©s. tantost aprÃ©s qu'ilz sont desobez/ il convient
 laver leur chief de vin blanc. et en leur baing soit mise la rachine de
 blanche vigne.
 
@@ -482,7 +454,7 @@ plat/ sur son chief/ affin qu'ele demeure asseuree. et que son fruit en
 soit toute sa vie plushardy.
 
 Glose. Peronne bevette dist que pour ce que on ne fist point ainsi a sa
-mere quant elle le portoit/ elle a esté et aincoires est si paoureuse
+mere quant elle le portoit/ elle a estÃ© et aincoires est si paoureuse
 qu'elle n'oseroit couchier seule sans avoir compaignie d'hommes.
 
 
@@ -515,8 +487,8 @@ apportera sur soy aucune enseigne.
 Le .xviii.e chappitre.
 
 Sachiez que homme qui se double en mariage est inhabile de parvenir a
-aucune dignité. Et se sa femme lui faisoit le pareil cas/ sans faulte il
-seroit cause de l'ung et de l'autre mal. et elle deveroit estre jugié
+aucune dignitÃ©. Et se sa femme lui faisoit le pareil cas/ sans faulte il
+seroit cause de l'ung et de l'autre mal. et elle deveroit estre jugiÃ©
 quitte et sans pugnicion.
 
 Glose. Dame ysoree la courte dist sur ce pas que la femme qui veult que
@@ -533,7 +505,7 @@ marrines et il vit eage d'homme il aura deux femmes ou pluiseurs.
 
 Glose. Certainement dist ampelune hucquette. je doy bien mauldire l'eure
 que vvillequin mon mari en eut oncques tant. car il en a trois accointes
-sans celles que point ne sçay.
+sans celles que point ne sÃ§ay.
 
 
 Le .xx.e chappitre.
@@ -544,7 +516,7 @@ vray signe de prochainement avoir guerre et dissencion ou pays.
 
 Glose. Perrine hulottote dist sur ce pas que quant les petis enfans
 portent bannieres/ et confanons en chantant par les rues/ c'est tout
-signe de mortalité.
+signe de mortalitÃ©.
 
 
 Le .xxi.e chappitre.
@@ -570,7 +542,7 @@ enfans qui avoient leur debout plus long oultre mesure que les autres.
 
 Le .xxiii.e chappitre.
 
-Se d'aventure un homme bat sa femme enchainte/ ou la pile du pié lors
+Se d'aventure un homme bat sa femme enchainte/ ou la pile du piÃ© lors
 qu'elle enfantera moult grant traveil en aura. et bien souvent les en
 convient morir.
 
@@ -597,7 +569,7 @@ faulte que son mari ou amy ne se desvoie.
 
 Glose. A ce mot laissa le filler une nommee Transsie d'amours jone de
 .lxvii. ans/ et dist qu'il n'estoit chose plus vraye que ceste
-euvangile. car des mercredy derrain passé je ne vey mon amy joliet. pour
+euvangile. car des mercredy derrain passÃ© je ne vey mon amy joliet. pour
 ce que en ce mesmes jour je perdy mon gartier en la rue.
 
 
@@ -620,11 +592,11 @@ hautement avoit continuee son euvangile et departi par .xxvi. articles
 qui tous estoient de grant sens et de grande importance. et promirent
 qu'elles metteroient paine de tant les repeter qu'elles les sauroient
 par cuer pour les publier et communicquier a celles qui point n'avoient
-esté a ceste lecture.
+estÃ© a ceste lecture.
 
 Moult me fut bel quant dame ysengrine mist fin a son parler car papier/
 et chandeille me failloient/ avec sommeil qui fort m'avoit accueilli/
-car pres de minuit estoit. Si voulz prendre d'elles congié/ mais elles
+car pres de minuit estoit. Si voulz prendre d'elles congiÃ©/ mais elles
 me prierent que avant que partisse je veisse eslire celle qui a
 l'endemain deveroit lire son euvangile. Si se mirent toutes ensemble a
 conseil et d'un commun accort esleurent Transeline du croq une ancienne
@@ -644,27 +616,27 @@ transeline du croq pour le mardy en l'ostel et a heure acoustumez.
 
 Quant vint le mardi environ cinq heures du vespre commencerent venir et
 assembler femmes tant vielles comme jones de toutes pars/ car desja
-elles avoient publié ce que le lundy avoit esté fait/ et ce que le mardy
+elles avoient publiÃ© ce que le lundy avoit estÃ© fait/ et ce que le mardy
 faire se devoit par dame transeline du croq femme bien renommee/ car
 elle estoit gentil femme eagie de environ soixante ans longue et maigre
-estoit. en ses jones jours avoit demouré avec une dame qui savoit partie
+estoit. en ses jones jours avoit demourÃ© avec une dame qui savoit partie
 de l'art de geomancie et rendoit raisons de pluiseurs choses avenir.
 avec laquelle elle aprist moult d'augurie dont depuis elle fut moult
-renommee et honnouree. Mais pour ce qu'elle avoit un jour mengié souppe
+renommee et honnouree. Mais pour ce qu'elle avoit un jour mengiÃ© souppe
 avec venus faitte au chauderon d'amours: oncques depuis ne cessa de
 exercer son service avec les subgez d'icele. Et en sa vieillesse
-s'estoit retraitté et alliee avec le curé de la ville qui de nuit et de
+s'estoit retraittÃ© et alliee avec le curÃ© de la ville qui de nuit et de
 jour oyoit sa confesse/ pourquoy toutes celles de son voisinage
 l'avoient en grant reverence.
 
 Dame transeline doncques venue entr'elles salua toute la compaignie. Et
-aprés qu'elle m'eut demandé se ma plume estoit preste d'escripre:
-commença a parler en ceste maniere.
+aprÃ©s qu'elle m'eut demandÃ© se ma plume estoit preste d'escripre:
+commenÃ§a a parler en ceste maniere.
 
 
 Le premier chappitre.
 
-Or ça dist elle mes bonnes voisines et amies en continuant nostre propos
+Or Ã§a dist elle mes bonnes voisines et amies en continuant nostre propos
 du soir precedent. je vous prie que silence soit faitte et je vous dy
 pour aussi vray comme euvangile que quant une femme veult estre de son
 mari ou de son amy bien amee: si lui face mengier herbe de chat/ et il
@@ -696,7 +668,7 @@ son chemin/ et alors sera il hors du peril.
 
 Glose. A ceste parolle se leva maroie la faee et dist tout hault/ que
 cestui chappitre estoit moult veritable. Car son parrastre avoit rompu
-la jambe au cheoir de son cheval aprés qu'il avoit rencontré un lievre.
+la jambe au cheoir de son cheval aprÃ©s qu'il avoit rencontrÃ© un lievre.
 Mais qui rencontre un loup/ un cerf/ ou un ours c'est tresbon signe.
 
 
@@ -708,10 +680,10 @@ dist crieve: et qui chiet de cheval il dit lieve.
 
 Glose. Sur cest article se peut faire un argument. car quant joseph mena
 la vierge marie en egypte elle monta sur un asne/ et toutesfois elle
-n'en eut nul grief. Respondy dame sebile du fossé que aincoires n'avoit
-jhesucrist point monté sur l'asne comme il fist depuis. replica une
+n'en eut nul grief. Respondy dame sebile du fossÃ© que aincoires n'avoit
+jhesucrist point montÃ© sur l'asne comme il fist depuis. replica une
 ancienne nommee perrette du trou punais/ que si avoit et que nostre dame
-l'emporta avec elle monté sur l'asne. Pour cest argument sourdy grande
+l'emporta avec elle montÃ© sur l'asne. Pour cest argument sourdy grande
 noise entre toutes les assistentes/ et telement que les unes
 soustenoient le texte de ceste euvangile/ et les autres soustenoient la
 glose/ et si grant clameur sourdy entre elles que on ne savoit a la
@@ -723,18 +695,18 @@ lecture. laquele chose elle obtint a tresgrande paine.
 Le .v.e chappitre.
 
 Mes voisines pour muer propos et abaissier vos debaz je vous dy pour
-euvangile que se une femme laisse son trepié ou son greil sur le feu
+euvangile que se une femme laisse son trepiÃ© ou son greil sur le feu
 sans y mettre ou baston ou tison ardant/ sachiez qu'elle en envieillist
 fort et en a ride le visage.
 
 Glose. Dist l'une des filleresses nommee piate au long nez que qui s'en
-va couchier sans remuer le siege sur quoy on s'est deschaussié/ il est
-en dangier d'estre ceste nuit chevauchié de la quauquemare.
+va couchier sans remuer le siege sur quoy on s'est deschaussiÃ©/ il est
+en dangier d'estre ceste nuit chevauchiÃ© de la quauquemare.
 
 
 Le .vi.e chappitre.
 
-Qui laisse de nuit une selle ou un trepié les piez dessus/ autant et
+Qui laisse de nuit une selle ou un trepiÃ© les piez dessus/ autant et
 aussi longuement/ est l'ennemi a cheval dessus la maison.
 
 Glose. Certes dist ysoree la temprieve que sa grant mere disoit que
@@ -757,7 +729,7 @@ vivera longuement.
 Le .viii.e chappitre.
 
 Quant les oreilles escopissent ou demenguent a aucun/ sachiez pour
-verité/ et comme euvangile que se c'est la droite oreille ce seront
+veritÃ©/ et comme euvangile que se c'est la droite oreille ce seront
 bonnes nouvelles. et se c'est la senestre elles seront mauvaises.
 
 Glose. Ysabel de la creste rouge dist sur ce propos que quant le nez
@@ -782,20 +754,20 @@ siet dessus: jamais de la ne se porra lever qu'il ne soit cler jour/ et
 est chose esprouvee.
 
 Glose. Jenneton tost preste dit qu'elle oublia une fois a ceste chose
-faire/ mais elle aprés qu'elle fut cauquie tasta que ce povoit estre si
+faire/ mais elle aprÃ©s qu'elle fut cauquie tasta que ce povoit estre si
 trouva que c'estoit une chose velue de assez doux poil.
 
 
 Le .xi.e chappitre.
 
 Qui laisse le samedy a parfiler le lin qui est en sa queloingne/ le fil
-qui en est filé le lundy ensuivant jamais bien ne fera/ et si on en fait
+qui en est filÃ© le lundy ensuivant jamais bien ne fera/ et si on en fait
 toile jamais elle ne blanchira.
 
 Glose. Dist marion le bleue pour ce que les femmes d'alemaigne ont ceste
 coustume que de laissier le lin a la queloingne le samedi: jamais leurs
-toilles ne sont blanches. Et cest verité il appert aux chemises que les
-hommes en apportent pardeça.
+toilles ne sont blanches. Et cest veritÃ© il appert aux chemises que les
+hommes en apportent pardeÃ§a.
 
 
 Le .xii.e chappitre.
@@ -811,8 +783,8 @@ souvent sa chemise doree.
 
 Le .xiii.e chappitre.
 
-Cellui qui ne jette ou seuffre jetter ou feu les os aprés qu'il en a
-mengié la char: jamais n'aura mal es dens pour l'onneur de sainct
+Cellui qui ne jette ou seuffre jetter ou feu les os aprÃ©s qu'il en a
+mengiÃ© la char: jamais n'aura mal es dens pour l'onneur de sainct
 laurens.
 
 Glose. Mais noir trou afferme ce chappitre estre vray/ mais elle dit que
@@ -860,12 +832,12 @@ fueille pourrira: le porion sechera.
 
 Glose. Ysabel de la doutre dist/ que ceste avoit autreffois fait: mais
 de frotter le porion du lait d'une fueille de pissenlit/ il en seche
-plus tost. Car elle l'avoit esprouvé.
+plus tost. Car elle l'avoit esprouvÃ©.
 
 
 Le .xviii.e chappitre.
 
-Quant un homme treuve en son pourpris un vaisseau d'eeps atachiés en un
+Quant un homme treuve en son pourpris un vaisseau d'eeps atachiÃ©s en un
 arbre s'il ne l'estrine d'une piece d'argent c'est mauvais signe.
 
 Glose. Baudinon gorgette dist que cellui qui approprie a soy les eeps
@@ -876,7 +848,7 @@ cellui/ et jamais ne l'aimeront ne lui feront prouffit.
 Le .xix.e chappitre.
 
 Cellui qui le jour sainct vincent loye les arbres de son gardin de
-loyens de fuerre de fromment: il aura cestui an plenté de fruis.
+loyens de fuerre de fromment: il aura cestui an plentÃ© de fruis.
 
 Glose. Emmeline le crottee dist a ce propos que qui behourde le jour des
 brandons ses arbres/ sache pour vray qu'ilz n'auront en tout cest an ne
@@ -917,7 +889,7 @@ que son chat ne cesse de lechier son derriere.
 Le .xxiii.e chappitre.
 
 Qui se siet au feu et escript es cendres de son doy ou d'ung baston ou
-qui se joue du feu/ c'est signe qu'il a pissié ou qu'il pissera au lit.
+qui se joue du feu/ c'est signe qu'il a pissiÃ© ou qu'il pissera au lit.
 
 Glose. Peronne l'enfumee dist en affermant ce texte que cellui qui
 regarde sa femme couvrir le feu devant lui sans soy lever: sachiez que
@@ -927,8 +899,8 @@ a marier/ elle ne sera de l'annee mariee.
 
 Le .xxiiii.e chappitre.
 
-Quant on craint que son chien ne soit mors de chien enragié/ faittes le
-mengier et boire parmy un trepié et il sera ce jour asseuré de la rage.
+Quant on craint que son chien ne soit mors de chien enragiÃ©/ faittes le
+mengier et boire parmy un trepiÃ© et il sera ce jour asseurÃ© de la rage.
 
 Glose. A ce propos dist Guillemette la boisteuse que qui veult son chat
 ou sa geline tenir a l'ostel sans les perdre si prengne ou le chat ou la
@@ -942,17 +914,17 @@ La conclusion de ceste journee.
 Pour ceste euvangile commencerent toutes les assistentes moult fort a
 rire/ et de fait en laissierent le filer et desvuidier/ et moult fort
 loerent dame transeline du croq de la deduction de son euvangile/
-ensamble celles doctoresse et sages femmes qui l'avoient glosé/ et si
-honnourablement deduit/ et postilé que mieulx on ne les porroit exposer.
-Je me levay de mon siege a demy lassé et desja semons du messagier du
+ensamble celles doctoresse et sages femmes qui l'avoient glosÃ©/ et si
+honnourablement deduit/ et postilÃ© que mieulx on ne les porroit exposer.
+Je me levay de mon siege a demy lassÃ© et desja semons du messagier du
 dieu dormant pour aller le berchier en son repos. Mais avant mon
 departement. je voulz veoir faire l'election de celle qui l'endemain
-devoit presider. Les femmes donques ayans laissié le rire dirent que
+devoit presider. Les femmes donques ayans laissiÃ© le rire dirent que
 temps estoit d'eslire la dame qui l'endemain presideroit. Si eslurent
 d'un commun accort dame abonde du four/ qui l'accepta benignement et
 promist d'en faire son povoir.
 
-Aprés ceste election ainsi de dame abonde du four: je me departis le
+AprÃ©s ceste election ainsi de dame abonde du four: je me departis le
 plus coyement que je peus/ car elles se prindrent si fort a quaqueter
 ensemble qu'elles n'eurent regart a mon departement.
 
@@ -964,20 +936,20 @@ mercredy soir par dame abonde du four.
 
 
 Le merdredy soir a heure acoustumee convindrent et s'assemblerent toutes
-les femmes qui avoient acoustumé d'y estre/ ensemble pluiseurs autres
-qui paravant n'y avoient esté par la induction de leurs voisines. Et
+les femmes qui avoient acoustumÃ© d'y estre/ ensemble pluiseurs autres
+qui paravant n'y avoient estÃ© par la induction de leurs voisines. Et
 elles ainsi assembleez survint dame abonde du four qui pour ceste nuit
 devoit et estoit ordonnee pour lire son euvangile/ comme elle fist. Mais
 avant que je procede aux chappittres d'icelle: je vueil descripre de son
 estat la maniere. Il est vray qu'en ses jones jours elle fut marchande
 de luxure a detail/ et depuis en tint bouticle en gros a bruges entre
-les marchans. belle femme avoit esté en sa jonesse: mais le vin et les
+les marchans. belle femme avoit estÃ© en sa jonesse: mais le vin et les
 bons morseaux qu'elle avoit pris et souvent l'avoient faitte si grasse
 que apou avoit sa rondeur sa longueur. Et abrief dire elle avoit une
-partie des sept ars en sa memoire/ car elle avoit estudié a paris par
-l'espace de sept ans ou colliege de glatigny. dont elle avoit rapporté
+partie des sept ars en sa memoire/ car elle avoit estudiÃ© a paris par
+l'espace de sept ans ou colliege de glatigny. dont elle avoit rapportÃ©
 mainte parfonde science. Elle doncques venue se ala seoir ou siege a ce
-determiné et aprés scilence faitte des assistentes commença pour son
+determinÃ© et aprÃ©s scilence faitte des assistentes commenÃ§a pour son
 thume et premier chappitre en ceste maniere.
 
 
@@ -1009,15 +981,15 @@ merveille se avant sa mort il ne chiet en apopelisie. car du moins il
 sera graveleux.
 
 Glose. Certainement dist jacquemine galoise qui long temps avoit servi
-le curé/ je vous asseure que cellui qui ainsi pisse ou fait sa
-neccessité contre l'eglise ou en l'attre l'eaue benoite qu'il rechoit le
+le curÃ©/ je vous asseure que cellui qui ainsi pisse ou fait sa
+neccessitÃ© contre l'eglise ou en l'attre l'eaue benoite qu'il rechoit le
 dimence ne le puet aidier contre le tonnoire pour celle sepmaine.
 
 
 Le .iiii.e chappitre.
 
 Se une femme perchoit un loup qui le suive/ elle doit tantost trayner sa
-chainture par terre aprés elle en disant. Garde toy loup que la mere
+chainture par terre aprÃ©s elle en disant. Garde toy loup que la mere
 dieu ne te fiere/ et tantost tout confus s'en retournera.
 
 Glose. Jane la sauvage dist que se aucun voit le loup devant que le loup
@@ -1053,7 +1025,7 @@ plusgrans secrez que j'aye oncques apris en savoie/ c'est pour aussi
 vray comme euvangile que quant aucune tempeste levera en l'air vous
 devez tantost faire du feu de quatre bastons de chesne en croix au
 dessus du vent/ et lui faire une croix dessus/ et tantost la tempeste se
-tournera de costé et ne touchera a voz biens.
+tournera de costÃ© et ne touchera a voz biens.
 
 Glose. Baudine camuse dist bien que ou pays de savoie a pluiseurs sages
 femmes/ car pour faire bel ou lait temps elles en sont maistresses.
@@ -1155,7 +1127,7 @@ ou autres choses/ s'elle d'aventure chausse au matin son pied droit
 premier/ elle aura bon eur de bien vendre.
 
 Glose. Ceste chose m'est souvent avenue dist tempre meure. Et oultre ce
-ay esté maintefois estrinee de tel marchant qu'il en penseroit a mari
+ay estÃ© maintefois estrinee de tel marchant qu'il en penseroit a mari
 s'il le savoit.
 
 
@@ -1174,7 +1146,7 @@ mere.
 
 Le .xviii.e chappitre.
 
-Se une cense a plenté de brebis qui aient pluiseurs aigneaux/ et aprés
+Se une cense a plentÃ© de brebis qui aient pluiseurs aigneaux/ et aprÃ©s
 la disme payee on en presente chascun an un au loup/ certes il en
 prendera un nonobstant garde qu'on y commette.
 
@@ -1185,7 +1157,7 @@ y aura de foireux en l'annee.
 
 Le .xix.e chappitre.
 
-Qui cueille ou eslit la poree le samedy aprés nonne pour le dimence
+Qui cueille ou eslit la poree le samedy aprÃ©s nonne pour le dimence
 cuire et mengier/ il en vient de legier a celles qui ce font le mal
 qu'on dist le joyel nostre dame.
 
@@ -1201,8 +1173,8 @@ il ne s'en porroit deffendre.
 
 Glose. Dist une des assistentes nommee angeline verde vaine que ainsi en
 avint il a son premier mari. Car en chevauchant de nuit il vey a la
-clarté de la lune un espovantaire de costé sa voye/ mais il ne sceut
-onques tirer son espee que lui avoie baillié de haste qu'il eut de s'en
+clartÃ© de la lune un espovantaire de costÃ© sa voye/ mais il ne sceut
+onques tirer son espee que lui avoie bailliÃ© de haste qu'il eut de s'en
 fouyr.
 
 
@@ -1218,7 +1190,7 @@ chevauchier sans selle.
 
 La conclusion de ceste journee
 
-Aprés ceste euvangile fist pause dame abonde du four/ car il ne lui
+AprÃ©s ceste euvangile fist pause dame abonde du four/ car il ne lui
 estoit possible de proceder en oultre a sa lecture pour le murmure des
 riseez que les filleresses firent lors toutes ensemble. Et quant a piece
 de temps elles firent aucun pou de silence: elles remercierent moult
@@ -1231,7 +1203,7 @@ vertoiles/ toures et autres bagaiges appartenans a l'art de fillerie
 pour elles retourner chascune a sa chascune.
 
 Et je troussay mes agoubilles pour m'en tourner dormir/ car la minuit
-approchoit. elles aprés pluiseurs raisons et menues suffrages esleurent
+approchoit. elles aprÃ©s pluiseurs raisons et menues suffrages esleurent
 dame sebile des mares pour l'endemain lire a heure acoustumee. dont
 elles furent moult joyeuses/ et tandis qu'elles estoient empeschiez je
 m'en alay reposer.
@@ -1243,9 +1215,9 @@ S'ensieut la continuacion des euvangiles leuttes par dames sebile des
 mares le jeudy soir en l'ostel accoustumez.
 
 
-Le jeudy entre six et sept heures du vespre aprés souper convindrent et
+Le jeudy entre six et sept heures du vespre aprÃ©s souper convindrent et
 assemblerent les matrones et femmes acoustumeez de venir a la serie
-ensemble pluiseurs autres qui point n'avoient accoustumé d'y venir pour
+ensemble pluiseurs autres qui point n'avoient accoustumÃ© d'y venir pour
 oir lire dame sebile des mares son euvangile.
 
 Dame sebile qui fort tenoit du grave vint en la compagnie de pluiseurs
@@ -1260,15 +1232,15 @@ longue femme estoit/ et si se disoit gentil femme a cause de vaux. et en
 quelque assemblee qu'elle se trouvoit: elle avoit volentiers la
 derreniere parolle pour tout couclure et ainsi estoit elle avantaigiere
 pourquoi il y eut pluiseurs femmes qui pour ceste cause y vindrent qui
-paravant n'y avoient esté. Dame sebile doncques assise en son siege
-aprés silence obtenue commença le premier chappitre de son euvangile et
+paravant n'y avoient estÃ©. Dame sebile doncques assise en son siege
+aprÃ©s silence obtenue commenÃ§a le premier chappitre de son euvangile et
 dist.
 
 
 Le premier chappitre.
 
 Qui vuelt que ses enfans ne soient paoreux il est expedient que
-incontinent aprés le batesme de l'enfant/ le pere lui face empoingnier
+incontinent aprÃ©s le batesme de l'enfant/ le pere lui face empoingnier
 de la main droite son espee ou son glaive/ et il sera toute sa vie
 hardis.
 
@@ -1291,8 +1263,8 @@ tous pute fin.
 Le tiers chappitre.
 
 Cellui qui congnoist charnelement sa commere a sa priere jamais ne puet
-en paradis entrer se le filleul son enfant ne fait de son gré la
-penitance premier pour sa marrine/ et aprés pour son pere.
+en paradis entrer se le filleul son enfant ne fait de son grÃ© la
+penitance premier pour sa marrine/ et aprÃ©s pour son pere.
 
 Glose. Cristine la sauvage dist que qui prent sa commere par mariage/
 touteffois qu'ilz se conjoindent charnelement/ qu'il tonne volentiers ou
@@ -1311,12 +1283,12 @@ enfans ilz sont enclins a mains maulz et fortunes.
 
 Le .v.e chappitre.
 
-Une meschine de prestre perseverant en son pechié jusques a la mort/
+Une meschine de prestre perseverant en son pechiÃ© jusques a la mort/
 sachiez pour vray comme euvangile qu'elle est chevalet au dyable/ et ne
 convient prier pour elle.
 
 Glose. L'une d'entre elles qui savoit de cest article respondy que le
-pechié se povoit estaindre par les prieres du prestre/ et par les enfans
+pechiÃ© se povoit estaindre par les prieres du prestre/ et par les enfans
 qu'ilz ont engendrez jasoit ce que communement ilz ne facent gaire bonne
 fin.
 
@@ -1324,27 +1296,27 @@ fin.
 Le .vi.e chappitre.
 
 Se un prestre seculier ou autre religieux congnoist charnelement femme
-mariee/ il n'aura jamais du pechié pardon/ se premierement ne lui est
-pardonné du mari d'elle.
+mariee/ il n'aura jamais du pechiÃ© pardon/ se premierement ne lui est
+pardonnÃ© du mari d'elle.
 
 Glose. Certainement respondy une matrone cest article croy je bien/ car
-dieu n'emprent jamais sur le droit d'autrui/ et aprés il pardonne le
+dieu n'emprent jamais sur le droit d'autrui/ et aprÃ©s il pardonne le
 droit de partie sauf.
 
 
 Le .vii.e chappitre.
 
-Se un homme marié habite a la femme de son voisin ou autre femme mariee/
+Se un homme mariÃ© habite a la femme de son voisin ou autre femme mariee/
 il mesmes se clot la porte de paradis et ja n'y enterra com fort qu'il y
 busche.
 
 Glose. Margot clappeie dist que jamais ne lui sera ouverte fors par
-cellui a qui tant a offensé/ quant aincoires il lui auroit pardonné.
+cellui a qui tant a offensÃ©/ quant aincoires il lui auroit pardonnÃ©.
 
 
 Le .viii.e chappitre.
 
-Quant le preste a chanté messe et que les aucuns vont baisier l'autel
+Quant le preste a chantÃ© messe et que les aucuns vont baisier l'autel
 ceulz en celle sepmaine ne doivent baisier femme nulle se ilz ne l'ont
 espousee.
 
@@ -1354,12 +1326,12 @@ cest article ne fauldront avoir mal aux dens ou a la teste.
 
 Le .ix.e chappitre.
 
-Quant une femme enchainte porte son enfant plus sur le costé dextre et
+Quant une femme enchainte porte son enfant plus sur le costÃ© dextre et
 qu'elle mengue volentiers venoison et volille/ qu'elle oyt volentiers
 parler de tournois et de joustes sachiez de vray qu'elle porte un filz.
 
 Glose. Mabelie qui mere alerresse estoit dit que quant la femme porte
-sur le costé senestre et appete dansses et sons d'instrumens que elle
+sur le costÃ© senestre et appete dansses et sons d'instrumens que elle
 aura une fille.
 
 
@@ -1378,11 +1350,11 @@ un filz. et s'elle fait le contraire ce sera une fille.
 Le .xi.e chappitre.
 
 Quant un homme engendre naturellement un enfant s'il lui povoit lors
-souvenir le temps qu'il lui avint et il pensoit comment aprés le fait il
-se trouva disposé/ autre juge fors lui n'y fauldroit car quant l'omme
+souvenir le temps qu'il lui avint et il pensoit comment aprÃ©s le fait il
+se trouva disposÃ©/ autre juge fors lui n'y fauldroit car quant l'omme
 engendre un filz petit s'en change pour ce qu'il engendre son semblable.
 mais a engendrer une fille qui est hors de sa complexion: il s'en treuve
-fort aliené voire pour deulx ou pour trois jours.
+fort alienÃ© voire pour deulx ou pour trois jours.
 
 Glose. Perrote galoise dist que incontinent que femme a conceu enfant
 masle pour les trois premiers mois elle porte assez bel. mais les autres
@@ -1421,12 +1393,12 @@ en l'erbe.
 
 Le .xv.e chappitre.
 
-Quant un enfant est né avant qu'il soit baptisié gardez vous de le
+Quant un enfant est nÃ© avant qu'il soit baptisiÃ© gardez vous de le
 mettre premierement ne porter sur vostre bras senestre. car pour vrai il
 en seroit gauchier toute sa vie.
 
 Glose. Martine tost preste dist a ce propos que se vous faites tourner a
-vostre mari son visage vers orient tandis qu'il est embesoingnié ou fait
+vostre mari son visage vers orient tandis qu'il est embesoingniÃ© ou fait
 d'amours/ s'il fait generacion se sera un filz.
 
 
@@ -1482,7 +1454,7 @@ la tierce fois/ et elle engambe par dessus son mari sachiez que s'il a
 acun de ses membres roide qu'il se amollira s'elle ne retourne en son
 lieu par ou elle est engambee.
 
-Glose. Maroie ployarde dist que se c'est aprés le premier chant du coq
+Glose. Maroie ployarde dist que se c'est aprÃ©s le premier chant du coq
 elle sans prejudice s'en puet retourner par ou lui plaist.
 
 
@@ -1521,22 +1493,22 @@ Conclusion de la serie du jeudy.
 A celle conclusion commencerent toutes les vieilles et jones qui presens
 y estoient a deviser toutes ensemble et faire un murmure comme toutes
 esbahiez des nobles auctoritez et vrayes euvangiles que dame sebile leur
-avoit exposé/ et bien promirent entr'elles de les retenir et mettre en
+avoit exposÃ©/ et bien promirent entr'elles de les retenir et mettre en
 leurs memoires/ car sainctes et bonnes les tenoient.
 
 Il me desplaisoit moult que compaignie d'aucun homme ne povoie avoir
 pour rire/ car certes la maniere qu'elles tenoient estoient moult
 estrange/ et a mon avis il leur sembloit que le monde par ces
-constitucions et chappitres se devoit cy aprés gouverner et regir par
+constitucions et chappitres se devoit cy aprÃ©s gouverner et regir par
 elles.
 
-Or ça dist l'une qui moult vieille et bochue estoit nommee estoit
+Or Ã§a dist l'une qui moult vieille et bochue estoit nommee estoit
 Mabelie du cendrier. Mes amies et voisines il est jeudy qui est jour de
 recreacion et le plus cras de la sepmaine. il m'est avis qu'il seroit
 bon que feissions un petit bancquet pour recreer noz espris/ et
 especiallement pour bien vegnier le profiat de noz bonnes et sages
-doctoresses qui jusques icy nous ont instruit et amonnesté la noble
-doctrine dont ci aprés sans aucune doubte serons ameez prisiez et
+doctoresses qui jusques icy nous ont instruit et amonnestÃ© la noble
+doctrine dont ci aprÃ©s sans aucune doubte serons ameez prisiez et
 honnoreez et par aventure parvendrons a avoir dominacion par dessus les
 hommes. Qu'en dittes vous: Certes dist une sienne voisine qui bonne
 galoise estoit/ et savoit assez du bas voler/ nommee Mehault ployarde.
@@ -1544,15 +1516,15 @@ je vous diray oncques femme ne dist mieulx. je m'en voy a ma maison tout
 quoyement tandis que mon mari ployart dort et apporteray une douzaine
 d'oefs. Dist une autre. Et je m'en voy querir de la farine et du burre
 si ferons des gauffres. et par dieu le vilain joquesus n'en tastera ja.
-Respondit une vieille ridee nommee flourette du pré. et je m'en voy
-querir demy lot de vin doulz/ car aincoires ay je espargnié un denier
+Respondit une vieille ridee nommee flourette du prÃ©. et je m'en voy
+querir demy lot de vin doulz/ car aincoires ay je espargniÃ© un denier
 que mon mari malprest ne scet point. Or sus doncques chascune se mette
 en ses devoirs dist l'une et je ferai tout apprester.
 
-Tandis qu'elles estoient ainsi empeschiés et ne pensoient fors
-d'acomplir leur entencion: je me departi en muchettes. et sans congié me
+Tandis qu'elles estoient ainsi empeschiÃ©s et ne pensoient fors
+d'acomplir leur entencion: je me departi en muchettes. et sans congiÃ© me
 retray/ car grant sommeil avoie. De la chiere qu'elles firent riens n'en
-sçay fors ce que l'endemain m'en fut dit. mais il n'y a chose digne
+sÃ§ay fors ce que l'endemain m'en fut dit. mais il n'y a chose digne
 d'estre mise par escript car en ce bancquet y eut tant de raisons sans
 effect qu'il n'est secretaire tant soit publique qui en eust sceut tenir
 le conte
@@ -1570,11 +1542,11 @@ gomberde la faee fust venue pour presider en son siege: elles se
 commencerent a deviser entr'elles de la bonne chiere qu'elles avoient
 faittes le soir precedent depuis mon departement parquoy je sceus
 comment la nuit s'estoit portee: et disoit dame mabelie du cendrier a
-flourette du pré: dya voisine et comment vous voz huvastes hier soir je
+flourette du prÃ©: dya voisine et comment vous voz huvastes hier soir je
 croy que ce fut pour mieulx dormir vous touchastes de la tierce pinte.
-Et je le croy bien respondy flourette/ pieça ne m'avint d'avoir si bonne
+Et je le croy bien respondy flourette/ pieÃ§a ne m'avint d'avoir si bonne
 nuit/ car ce songart joquesus mon mari ne me fist ne chou ne quoy/ voire
-au moins qui vaille/ passé a plus de .ix. jours/ je croy qu'il face sa
+au moins qui vaille/ passÃ© a plus de .ix. jours/ je croy qu'il face sa
 neuvaine a quelque sainct maupreu lui puist il faire de me ainsi
 espargnier mais puis que temps avons de deviser/ comment s'achema
 mehault ployarde/ il sembloit que tout fust sien/ et a brief dire il n'y
@@ -1588,13 +1560,13 @@ aincoires vaine qui y tende: A ceste parolle mist dame mehault ses mains
 a ses costez/ et en grant couroux lui respondit que voirement avoit elle
 aincoires une verde vaine/ et que pour couchier dessoubz il ne failloit
 point regarder a l'eage: mais seulement au bon voloir qui aincoires lui
-estoit demouré/ et que dieu merci aincoires fondoit le burre en sa
+estoit demourÃ©/ et que dieu merci aincoires fondoit le burre en sa
 bouche/ combien qu'elle ne peust croquier noisettes/ car elle n'avoit
 que un seul dent.
 
 A dont vint dame Gomberde la faee pour commencer son euvangile a la
 venue de la quele fut faitte silence/ mais ce fust a tresgrande paine.
-car dame mehault estoit si malcontente de ce que elle avoit esté
+car dame mehault estoit si malcontente de ce que elle avoit estÃ©
 appellee vielle: et si n'avoit aincoires que .lxxvii. ans que nullement
 se voloit appaisier. Touteffois tant l'en pria l'en qu'elle se teust la
 dieu merci. Si pris ma plume et mon papier/ et me mis en mon devoir pour
@@ -1608,15 +1580,15 @@ le renseignier. et qui eust a faire d'aucune fille secrete elle en eust
 fait plaisir pour gracieulx vin et c'estoit la practique de quoy elle
 s'entretenoit le mieulx. Subtile estoit comme il apperra par sa lecture.
 
-Quant elle fut assise et que silence fut faitte elle commença son thume
+Quant elle fut assise et que silence fut faitte elle commenÃ§a son thume
 en cest maniere.
 
 
 Le premier chappitre.
 
 Or sus dist dame gomberde laissons toutes rihotes et debas ester et
-commençons pour l'onneur du vendredy ouquel nous sommes a parler du
-sainct sacrement de mariage/ car j'ay esté sept fois mariee. mais ce non
+commenÃ§ons pour l'onneur du vendredy ouquel nous sommes a parler du
+sainct sacrement de mariage/ car j'ay estÃ© sept fois mariee. mais ce non
 obstant se le .viii.e me venoit et il estoit a mon het aincoires y
 entenderoie volentiers. Et pour de lui estre fort amee je lui feroie
 mengier une poiree d'herbes cueillies la nuit sainct jehan a nonne. et
@@ -1624,7 +1596,7 @@ pour vray il ne lui seroit possible de me laissier pour une autre plus
 jone de moy.
 
 Glose. Dist belotte court talon a ce propos que se une femme mettoit en
-l'oreille de son mari des plumes d'un chappon qui auroit mené jones
+l'oreille de son mari des plumes d'un chappon qui auroit menÃ© jones
 pouchins/ et du poil de la droite patte de son chien/ et du poil du bout
 de la queue de son chat. il ne pourroit jamais oublier l'amour d'elle.
 
@@ -1632,7 +1604,7 @@ de la queue de son chat. il ne pourroit jamais oublier l'amour d'elle.
 Le second chappitre.
 
 Se une femme veult estre audessus que son mari ne la batte. il fault
-prendre toutes ses chemises et quant le curé list la passion le vendredi
+prendre toutes ses chemises et quant le curÃ© list la passion le vendredi
 les mettre dessoubz l'autel/ et lui faire vestir le dimence ensuivant/
 sachiez que tant qu'il aura vestue ceste chemise: il sera a sa femme
 doulx et courtois.
@@ -1642,7 +1614,7 @@ Le tiers chappitre.
 
 Se une femme veult que son mari aime mieulx l'un de ses enfans que
 l'autre: si lui face mengier des deux debous des oreilles de son chien
-la moitié/ et a l'enfant l'autre moitié. et pour aussi vray que
+la moitiÃ©/ et a l'enfant l'autre moitiÃ©. et pour aussi vray que
 euvangile ilz s'entraimeront si fort que a pou pourront ilz estre l'un
 sans l'autre.
 
@@ -1657,12 +1629,12 @@ visage/ et sans faulte il les amera oultre mesure.
 
 Le .v.e chappitre.
 
-Qui veult affranchir son chien de devenir enragié si lui donne a mengier
-tous les jours au matin du propre pain un morseau ou deux qui aura esté
-porté a l'offrande le dimence derrain passé/ et si le reffuse sachiez
-pour vray qu'il est mal disposé.
+Qui veult affranchir son chien de devenir enragiÃ© si lui donne a mengier
+tous les jours au matin du propre pain un morseau ou deux qui aura estÃ©
+portÃ© a l'offrande le dimence derrain passÃ©/ et si le reffuse sachiez
+pour vray qu'il est mal disposÃ©.
 
-Glose. Marotte pelee dist que qui ne veult estre assailli ne abayé des
+Glose. Marotte pelee dist que qui ne veult estre assailli ne abayÃ© des
 chiens de jour ne de nuit/ si ait du bon frommage rosti et leur donne en
 disant Inchamo et freno tout au long/ et pour certain ilz le laisseront
 en paix. voire et se fussent ilz rabis.
@@ -1683,7 +1655,7 @@ donneront lait tous jours de bien en mieulx.
 
 Le .vii.e chappitre.
 
-Qui veult avoir de ses vaches et l'yver et l'esté burre frais. il doit
+Qui veult avoir de ses vaches et l'yver et l'estÃ© burre frais. il doit
 quant elles sont en sault les mener devant le thaur/ et les lui laissier
 flairier sans touchier/ et mener la vache trois tours autour du thaur/
 et puis lui laissier saillir et pour vray vous aurez toute l'annee frais
@@ -1707,8 +1679,8 @@ hostel ne se depatira.
 Le .x.e chappitre.
 
 Je vous dy pour aussi vray que euvangile que se une personne mengue
-d'une beste que le loup aura estranglé/ et de laquelle il aura par
-aventure mengié/ a grande paine puet icelle personne rendre ame se le
+d'une beste que le loup aura estranglÃ©/ et de laquelle il aura par
+aventure mengiÃ©/ a grande paine puet icelle personne rendre ame se le
 loup n'estoit premierement mort.
 
 Glose. Au moins ne pourroit il parler dist belotte le cornue par long
@@ -1729,16 +1701,16 @@ n'ait riens de blanc.
 
 Le .xii.e chappitre.
 
-Quant une espousee va de sa maison a l'eglise pour espouser son fiancé
+Quant une espousee va de sa maison a l'eglise pour espouser son fiancÃ©
 la meilleur de toutes les prieres qu'on lui donne demeurent a son
 prouffit/ moiennant qu'elle remercie incontinent le donneur autrement
 celle priere ne lui vauldroit riens.
 
 Glose. Dist une bonne galoise nommee perrine bleue levre de cest
-chappitre ay trouvé une exepcion/ car quant j'alay espouser janot bleue
+chappitre ay trouvÃ© une exepcion/ car quant j'alay espouser janot bleue
 levre mon mari/ ma taye me salua en priant que je peusse avoir bon et
 roide encontre/ dont je l'en merciay. mais il m'en avint tout autrement/
-car je le trouvay si doulz qu'on le eust lyé au droit neu/ qu'on en ait
+car je le trouvay si doulz qu'on le eust lyÃ© au droit neu/ qu'on en ait
 froide joye.
 
 
@@ -1750,7 +1722,7 @@ devorez des oyseaux et bestes sauvages.
 
 Glose. Certainement dist maroie du cendrier/ j'ay souvent oy dire qu'il
 fault se garder de mettre oefz couver le jour devant que la lune se
-reface et le jour aprés qu'elle est refaitte. car les pouchins qui en
+reface et le jour aprÃ©s qu'elle est refaitte. car les pouchins qui en
 viennent ne font jamais bonne fin.
 
 
@@ -1767,7 +1739,7 @@ homme qui autreffois a batu sa femme c'est tout signe de pendre.
 
 Le .xv.e chappitre.
 
-Quant on voit plenté de chauvesoris voler entour une maison il en fait
+Quant on voit plentÃ© de chauvesoris voler entour une maison il en fait
 bon deslogier/ car c'est un grant signe que temprement on y boutera le
 feu.
 
@@ -1777,7 +1749,7 @@ Le .xvi.e chappitre.
 Qui de nuit laisse sur la table la nape estendue/ et les soris viennent
 par nuit sur la nape mengier les miettes du pain qui y sont demoureez/
 quiconques mengue l'endemain sur icelle: ses dens lui devendront noirs
-et tost aprés pourriront.
+et tost aprÃ©s pourriront.
 
 Glose. Maroye bouche d'or dist a ce propos que de mangier chault
 potaige/ et especialment poree de choulz: on en a les dens noirs.
@@ -1785,7 +1757,7 @@ potaige/ et especialment poree de choulz: on en a les dens noirs.
 
 Le .xvii.e chappitre.
 
-Quant un enfant est nouveau né se c'est un filz il le convient porter au
+Quant un enfant est nouveau nÃ© se c'est un filz il le convient porter au
 pere/ et lui bouter des pieds contre la poitrine/ et pour certain jamais
 ne fera l'enfant male fin.
 
@@ -1820,7 +1792,7 @@ La conclusion de la serie du vendredy.
 
 Pour ceste derraine glose sourdy grande tumulte entre les femmes illec
 assembleez tant de rire comme de parler toutes ensemble/ et ne sembloit
-autre chose fors que ce fust un marchié de hire hare sans ordre et sans
+autre chose fors que ce fust un marchiÃ© de hire hare sans ordre et sans
 voloir entendre l'une l'autre ne atendre la fin de leurs raisons
 pourquoy quant je vey ceste confusion je ploiay mon papier/ estouppay et
 serray mon escriptoire/ remis ma plume en mon coffin/ et me levay me
@@ -1833,7 +1805,7 @@ escript le residu des euvangiles de dame berthe de corne qui estoit la
 derraine assemblee qu'elles devoient faire/ et ou elles devoient
 conclurre et faire fin de leurs articles. Moy considerant le commun
 proverbe qui se dit. Que qui sert et ne parsert son loyer pert: leur
-ottroiay leur requeste liberalement. Et aprés congié pris d'elles me
+ottroiay leur requeste liberalement. Et aprÃ©s congiÃ© pris d'elles me
 parti. et m'en alay reposer/ car la teste avoie fort vuide pour les
 raisons traversaines d'elles que mon entendement n'avoit peu comprendre.
 Si les laissay illecques trousser leurs bagues et leurs quilles et m'en
@@ -1845,33 +1817,33 @@ alay reposer.
 La continuacion de la serie du vendredy a celle du sammedy.
 
 
-Le samedy soir environ six heures aprés le salve de nostre dame/ et que
+Le samedy soir environ six heures aprÃ©s le salve de nostre dame/ et que
 j'eus prise assez legiere refection tant pour l'onneur du jour comme
 pour l'affeccion que j'avoie pour veoir et oyr a quel fin prenderoient
-noz dames conclusion de leurs euvangiles: je aprés que j'eus prises mes
+noz dames conclusion de leurs euvangiles: je aprÃ©s que j'eus prises mes
 agoubilles/ papier plume/ et enchre me transportay ou lieu ou le soir
-precedent avions assemblé.
+precedent avions assemblÃ©.
 
-Et moy illec venus me assis en mon lieu acoustumé/ pluiseurs des
-escolieres estoient desja venues qui commençoient a desvuider et haspler
+Et moy illec venus me assis en mon lieu acoustumÃ©/ pluiseurs des
+escolieres estoient desja venues qui commenÃ§oient a desvuider et haspler
 leurs fuseez. car filer ne povoient pour l'onneur du samedy et de la
-vierge marie. je n'eus illec gaires sejourné quant vint dame berthe de
+vierge marie. je n'eus illec gaires sejournÃ© quant vint dame berthe de
 corne acompaignie de pluiseurs de ses amies et voisines pour son
 euvangile lire et continuer comme a ce faire estoit esleute. Mais avant
 que je procede a ses chappitres: je vueil descripre aucune chose de sa
 genealogie et venue.
 
 Dame berthe de corne estoit de l'eage environ de .iiii.xx. ans ou plus
-fille avoit esté de regnaut de corne sage homme a merveille qui en son
-temps avoit estudié a toulette en l'art de gramaire et en geomancie:
-depuis avoit esté a montpellier ou il avoit estudié en medecine/ et
+fille avoit estÃ© de regnaut de corne sage homme a merveille qui en son
+temps avoit estudiÃ© a toulette en l'art de gramaire et en geomancie:
+depuis avoit estÃ© a montpellier ou il avoit estudiÃ© en medecine/ et
 ceste art fut dont il vesqui toute sa vie et introduist dame berthe sa
 fille en laquelle elle prouffita moult/ et s'en vesqui depuis en
 tapinage assez honnestement. Elle doncques assise en son siege et
-silence obtenue commença son euvangile en ceste maniere.
+silence obtenue commenÃ§a son euvangile en ceste maniere.
 
 Mes bonnes amies et voisines puis que mon tour est venu que je vous doy
-faire fin et conclusion de l'euvre par mes dames encommencé: je a mon
+faire fin et conclusion de l'euvre par mes dames encommencÃ©: je a mon
 povoir traitteray de la science que j'ay aprise qui touche medecine. et
 m'en acquiteray au mieulx que porray. Si vueilliez diligemment entendre
 et les retenir car elles sont dignes d'estre mises en vostre memoire.
@@ -1880,7 +1852,7 @@ et les retenir car elles sont dignes d'estre mises en vostre memoire.
 Le premier chappitre.
 
 Et pour mon premier chappitre je vous dy qui a les fievres et il june le
-premier dimence aprés le premier jour qu'elles l'auront pris sachiez
+premier dimence aprÃ©s le premier jour qu'elles l'auront pris sachiez
 pour vray qu'elles le laisseront.
 
 
@@ -1894,7 +1866,7 @@ Le tiers chappitre.
 
 Se vous avez mari rebelle et qui ne vous vueille baillier argent a
 vostre besoing prenez le premier neu d'un festu de fromment cueillie
-auprés de terre la nuit sainct jan tandis qu'on sonne nonne/ et icellui
+auprÃ©s de terre la nuit sainct jan tandis qu'on sonne nonne/ et icellui
 boutez ou trou du coffre ou lieu de la clef: et sans faulte elle
 s'ouvrira.
 
@@ -1909,7 +1881,7 @@ laisseront.
 Le .v.e chappitre.
 
 Femme qui est malade de la rougereule doit prendre de l'eaue qui aura
-esté benoite le dimence et d'icelle en faire un chaudeau et en humer/ et
+estÃ© benoite le dimence et d'icelle en faire un chaudeau et en humer/ et
 pour certain elle en garira.
 
 
@@ -1931,7 +1903,7 @@ Le .viii.e chappitre.
 
 Se une femme se mespasse le pied telement qu'il soit estors et comme
 hors du lieu. il convient que son mari voise en pelerinage a monseigneur
-sainct martin pour sa santé et qu'il raporte des lavemens du pied du
+sainct martin pour sa santÃ© et qu'il raporte des lavemens du pied du
 cheval sainct martin. et d'iceulx lavemens en lave son pied et tantost
 elle garira.
 
@@ -1961,12 +1933,12 @@ tant dire que quant vous veez un cheval si terrible qu'il ne vuelt
 souffrir qu'on monte sur lui/ ou ne veult entrer en un navire/ ou sur un
 pont/ dittes lui en l'oreille ces parolles. Cheval aussy vray que
 meschine de prestre est cheval au dyable/ tu vueilles souffrir que je
-monte sur toy. Et tantost il sera paisible et en ferez vostre volenté.
+monte sur toy. Et tantost il sera paisible et en ferez vostre volentÃ©.
 
 
 Le .xii.e chappitre.
 
-Mes amies et voisines aincoires vous dy pour verité que se un homme
+Mes amies et voisines aincoires vous dy pour veritÃ© que se un homme
 avoit sur lui ou portoit en bataille la petite peau qu'il apporte du
 ventre sa mere: sachiez qu'il ne porroit estre blechiez ne navrez en son
 corps.
@@ -1986,24 +1958,24 @@ que jamais bleschiez ne seroit en la guerre.
 Le .xiii.e chappitre.
 
 Je ne me puis retraire de toudis parler des choses a l'avantaige des
-hommes/ et si sçay bien que de nous ne font gaires de compte/ car ilz
+hommes/ et si sÃ§ay bien que de nous ne font gaires de compte/ car ilz
 tiennent leurs parlemens et gengle de nous toudis en la reproche de
 nostre sexe mais tant vous vueil aincoires bien dire que a femmes qui a
 nouvellement pris les fievres s'elle oingt tous ses conduis de miel le
-premier jeudy aprés qu'elles les aura eues: sachiez qu'elle en sera
+premier jeudy aprÃ©s qu'elles les aura eues: sachiez qu'elle en sera
 quitte et delivre.
 
 
 Le .xiiii.e chappitre.
 
 Quant vous voyez arondelles faire leur nyd en aucune maison sachiez que
-c'est tout signe de povreté. Et se les moissons y font leur nyd/ c'est
-signe de prosperité et de toute bonne fortune.
+c'est tout signe de povretÃ©. Et se les moissons y font leur nyd/ c'est
+signe de prosperitÃ© et de toute bonne fortune.
 
 
 Le .xv.e chappitre.
 
-Je vous dy aincoires pour verité que qui veult boire de toutes manieres
+Je vous dy aincoires pour veritÃ© que qui veult boire de toutes manieres
 de vins et avec toutes manieres de gens sans estre yvre sachiez qu'il ne
 fault que se desjuner d'une pomme sure au matin et boire un trait de
 fresche eaue et sans faulte il ne sera ce jour yvre.
@@ -2018,7 +1990,7 @@ Le .xvi.e chappitre.
 Mes amies pour la conclusion finale de mon euvangile/ ensemble pour
 l'onneur du saint dimenche qui nous approche/ je vous vueil dire un
 merveilleux secret que pou d'hommes scevent. je vous dy pour certain que
-les cygoignes qui en l'esté se tiennent en ce pays et en yver s'en
+les cygoignes qui en l'estÃ© se tiennent en ce pays et en yver s'en
 retournent en leur pays/ qui est entour le mont de synay: sont pardela
 creatures comme nous. Et qu'il appere qu'elles ayent raison elles
 donnent tousjours et paient leurs dismes a dieu quant elles ont fait des
@@ -2027,47 +1999,47 @@ petis de l'un d'iceulx.
 Glose. A ceste conclusion affermer se leva dame abreye l'enfflee vielle
 a merveilles/ et dist qu'il estoit vray ce que dame berthe de corne
 avoit dit. Car elle avoit souvent oy dire a son tayon/ clais van triere
-que quant il avoit esté a sainte katherine du mont de synay/ et en
-passant les desers avoit perdu par mortalité toute sa compaignie/ il vey
-de loing une creature a laquele il ala et commença a demander son chemin
+que quant il avoit estÃ© a sainte katherine du mont de synay/ et en
+passant les desers avoit perdu par mortalitÃ© toute sa compaignie/ il vey
+de loing une creature a laquele il ala et commenÃ§a a demander son chemin
 en flameng. Celle creature lui respondi tantost et lui enseigna son
 chemin et de fait ala longuement avec lui. Et lui devisa tout son estat/
-et comment elle estoit cygoigne par deça/ et faisoit son nyd en flandres
+et comment elle estoit cygoigne par deÃ§a/ et faisoit son nyd en flandres
 sur l'ostel de son voisin. Clais qui ceste chose ne voloit croire lui
 pria qu'elle lui baillast certaines enseignes affin que s'il povoit
 jamais retourner ou pays qu'il la remerciast de sa courtoisie. Adont la
 cygoigne tira un annel d'or qu'elle avoit recueillie en la place delez
 sa maison et lui monstra/ et tantost que clais le vey il le recongneut/
-car c'estoit l'annel duquel il avoit espousé mal cenglee sa femme. La
+car c'estoit l'annel duquel il avoit espousÃ© mal cenglee sa femme. La
 cygoigne lui rendy son annel par tel si qu'il deffenderoit aux porchiers
 et vachiers de son hostel qu'ilz ne lui feissent plus de moleste comme
-paravant ilz avoient acoustumé a faire. Et aprés ces promesses prist mon
-tayon congié et s'en retourna a bruges ou depuis vesqui si bien qu'il
+paravant ilz avoient acoustumÃ© a faire. Et aprÃ©s ces promesses prist mon
+tayon congiÃ© et s'en retourna a bruges ou depuis vesqui si bien qu'il
 estoit gros de .xiiii. palmes de tour quant il morut.
 
                    *       *       *       *       *
 
 Grande risee fut illec faitte de toutes les assistentes/ que desja
-avoient lavé leurs cheveulx et desvuidié leurs fuseez/ et estoient
+avoient lavÃ© leurs cheveulx et desvuidiÃ© leurs fuseez/ et estoient
 prestes de trousser leurs quilles et agoubilles dont je fus moult
-joyeux/ car certes je m'en commençoie fort a taner/ pour ce que ce
+joyeux/ car certes je m'en commenÃ§oie fort a taner/ pour ce que ce
 qu'elles avoient dit me sembloient choses toutes sans aucune raison ou
-aucune bonne consequence/ comme j'avoie au commencement pensé. Mais pour
+aucune bonne consequence/ comme j'avoie au commencement pensÃ©. Mais pour
 me monstrer non parcial ne aussi vilipendeur ne despriseur de leurs
 volentez/ je a demy chiere joyeuse/ et non pas trop attendi entr'elles
 quele fin elles metteroient en leurs euvangilles et auctoritez: et
-comment mon honneur sauvé je prenderoie congié d'elles. Il n'estoit
+comment mon honneur sauvÃ© je prenderoie congiÃ© d'elles. Il n'estoit
 aincoires apparent que silence fust entr'elles/ pourquoy je me mis en la
 veue d'elles affin que par mon regard elle eussent aucune vergoingne et
-honte de leur affaire que certes estoit moult desriglé comme d'une
-bataille faillie. Enfin les six qui avoient esté inventeresses et
+honte de leur affaire que certes estoit moult desriglÃ© comme d'une
+bataille faillie. Enfin les six qui avoient estÃ© inventeresses et
 presidentes toute la sepmaine vindrent vers moy/ et me remercierent
 moult de la paine que prise avoie pour elles/ et pour mon salaire me
 promirent ayde se les requeroie de me avanchier envers quelque
-damoiselle. Dont je les remerciay en moy excusant par une auctorité
+damoiselle. Dont je les remerciay en moy excusant par une auctoritÃ©
 joyeuse qui se dist communement. C'est que quant un cheval va boire sans
 qu'on lui maine/ et un homme va a complie atout un baston: Certes ces
-deux ont passé leur temps: de ces deux bestes j'en suis l'une.
+deux ont passÃ© leur temps: de ces deux bestes j'en suis l'une.
 
 
 
@@ -2075,11 +2047,11 @@ deux ont passé leur temps: de ces deux bestes j'en suis l'une.
 Conclusion de l'acteur.
 
 
-Vous messeigneurs et mes dames qui cest petit traittié lirez/ ou avez
+Vous messeigneurs et mes dames qui cest petit traittiÃ© lirez/ ou avez
 leut prenez le en passetemps d'oyseuse je vous prie/ et n'ayez regard a
-aucun des chappitres quant au regard d'acune apparence de verité ne
+aucun des chappitres quant au regard d'acune apparence de veritÃ© ne
 d'aucune bonne introduction/ mais prenez le tout estre dit et escript
-pour demonstrer la fragilité de celles qui ainsi se devisent souvent
+pour demonstrer la fragilitÃ© de celles qui ainsi se devisent souvent
 quant ensamble se treuvent. Et aincoires plus en ay oy d'elles/ mais il
 doit souffire quant a present/ pour ma part un autre vendra qui les
 augmentera.
@@ -2090,17 +2062,17 @@ augmentera.
 Note sur la transcription.
 
 
-On reproduit dans cette version électronique le livre coté Res-Ye-92 de
-la Bibliothèque nationale de France, édité vers 1479-1482 par Colard
+On reproduit dans cette version Ã©lectronique le livre cotÃ© Res-Ye-92 de
+la BibliothÃ¨que nationale de France, Ã©ditÃ© vers 1479-1482 par Colard
 Mansion.
 
-On a conservé l'orthographe, la ponctuation et l'usage des majuscules de
-l'original. Pour le confort de lecture, on a cependant résolu les
-abréviations par signes conventionnels, introduit apostrophes, accents
-et cédilles, et distingué u/v et i/j selon l'usage.
+On a conservÃ© l'orthographe, la ponctuation et l'usage des majuscules de
+l'original. Pour le confort de lecture, on a cependant rÃ©solu les
+abrÃ©viations par signes conventionnels, introduit apostrophes, accents
+et cÃ©dilles, et distinguÃ© u/v et i/j selon l'usage.
 
-Seules les coquilles manifestes (par exemple: qne > que) ont été
-corrigées.
+Seules les coquilles manifestes (par exemple: qne > que) ont Ã©tÃ©
+corrigÃ©es.
 
 
 
@@ -2116,366 +2088,6 @@ corrigées.
 
 
 
-End of Project Gutenberg's Les évangiles des quenouilles, by Anonymous
+End of Project Gutenberg's Les Ã©vangiles des quenouilles, by Anonymous
 
-*** END OF THIS PROJECT GUTENBERG EBOOK LES ÉVANGILES DES QUENOUILLES ***
-
-***** This file should be named 58467-8.txt or 58467-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/4/6/58467/
-
-Produced by Laurent Vogel (This file was produced from
-images generously made available by the Bibliothèque
-nationale de France (BnF/Gallica) at http://gallica.bnf.fr)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58467 ***
